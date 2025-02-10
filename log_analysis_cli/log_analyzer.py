@@ -1,5 +1,5 @@
-import logging
 import argparse
+import logging
 from pathlib import Path
 
 logging.basicConfig(

@@ -74,7 +74,7 @@ python fetch_posts.py --test
 
 ## Task 2: File Processing and XML/JSON Conversion
 
-This script converts XML files containing product data into JSON format and saves them in a new directory.
+This script converts XML files containing data into JSON format and saves them in a directory.
 
 ### Features:
 - Parses XML files with product data.
