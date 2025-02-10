@@ -1,10 +1,12 @@
-import aiohttp
-import asyncio
-import sqlite3
 import logging
+import sqlite3
 import csv
 import argparse
 from pathlib import Path
+
+import aiohttp
+import asyncio
+
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"

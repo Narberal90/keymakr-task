@@ -1,6 +1,6 @@
-import pytest
 import json
 import logging
+import pytest
 
 import convert_xml_to_json
 
