@@ -1,5 +1,5 @@
 
-# Python Projects
+# Python Scripts
 
 This repository contains a collection of Python scripts for various tasks including API data fetching, file processing, log analysis, and task management.
 
@@ -18,7 +18,7 @@ python3 --version
 **Clone the repository to your local machine:**
 
 ```bash
-git clone https://github.com/Narberal90/keymakr-task/tree/develop   
+git clone https://github.com/Narberal90/keymakr-task.git   
 ```
 **Navigate to the project directory**
 ```bash
